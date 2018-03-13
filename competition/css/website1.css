@@ -1,13 +1,13 @@
 body {
-  background-image: url('https://github.com/sophienstuart/compwebsite/blob/master/competition/images/sky3.jpg');
+  background-image: url('../images/sky3.jpg');
 }
 #frontpagebody {
-  background-image: url('https://github.com/sophienstuart/compwebsite/blob/master/competition/images/globe.gif');
-  background
+  background-image: url('../images/globe.gif');
+  background-repeat: no-repeat;
   background-size: contain;
 }
 #websitebody {
-  background-image: url('https://github.com/sophienstuart/compwebsite/blob/master/competition/images/worldmapplain.png'), url('https://github.com/sophienstuart/compwebsite/blob/master/competition/images/sky3.jpg');
+  background-image: url('../images/worldmapplain.png'), url('../images/sky3.jpg');
   background-size: cover;
   background-color: #F0F8FF;
   font-family: 'Acme', sans-serif;
