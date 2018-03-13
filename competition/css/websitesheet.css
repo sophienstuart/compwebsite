@@ -1,0 +1,22 @@
+body {
+  background-image: url('C:/Users/deb/Documents/Code First Girls/competition/images/sky3.jpg');
+}
+#frontpagebody {
+  background-image: url('C:/Users/deb/Documents/Code First Girls/competition/images/globe.gif');
+}
+#websitebody {
+  background-image: url('C:/Users/deb/Documents/Code First Girls/competition/images/worldmapplain.png'), url('C:/Users/deb/Documents/Code First Girls/competition/images/sky3.jpg');
+  background-size: cover;
+  background-color: #F0F8FF;
+  font-family: 'Acme', sans-serif;
+}
+h1 {
+  color: white;
+}
+p {
+  color: white;
+}
+#mainfont {
+  font-size: 200px;
+  text-align: center;
+}
