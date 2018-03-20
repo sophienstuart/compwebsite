@@ -1,10 +1,10 @@
 body {
-  background-image: url('../images/sky3.jpg');
+
 }
 #frontpagebody {
-  background-image: url('../images/globe.gif');
+  background-image: url('../images/globe.gif'), url('../images/sky3.jpg');
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 }
 #websitebody {
   background-image: url('../images/worldmapplain.png'), url('../images/sky3.jpg');
