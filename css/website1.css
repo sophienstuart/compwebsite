@@ -1,19 +1,8 @@
-<!doctype html>
-<HTML>
-  <head>
-    <link rel="stylesheet" type="text/css" href="css/website1.css">
-	  <link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
-  <style>
-  </style>
-  </head>
-
-  <body id="frontpagebody">
-    <div class='SMG'>
-      <a id="mainfont" href='../competition/index.htmbody {
+body {
 
 }
 #frontpagebody {
-  background-image: url('../images/spinglobe2.gif'), url('../images/sky3.jpg');
+  background-image: url('images/spinglobe2.gif'), url('images/sky3.jpg');
   background-position: center, center;
   background-repeat: no-repeat, repeat;
   background-size: contain, contain;
@@ -63,7 +52,3 @@ h1 {
 p {
   color: white;
 }
-l'>SHOW<br/>ME<br/>GIGS</a>
-    </div>
-  </body>
-</HTML>
